@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCompoud_SQLite\bin\Debug\CareCompoud_SQLite.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCompoud_SQLite\bin\Debug\CareCompoud_SQLite.exe
+c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCompoud_SQLite\bin\Debug\CareCompoud_SQLite.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCompoud_SQLite\bin\Debug\System.Data.SQLite.dll
+c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.Form1.resources
+c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.exe
+c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.pdb
