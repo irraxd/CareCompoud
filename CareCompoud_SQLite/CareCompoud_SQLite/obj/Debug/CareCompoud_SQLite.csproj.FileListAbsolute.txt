@@ -8,3 +8,12 @@ c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCo
 c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.csproj.GenerateResource.Cache
 c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.exe
 c:\users\usuario\documents\visual studio 2017\Projects\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.pdb
+C:\Users\Soporte\Documents\GitHub\CareCompoud\CareCompoud_SQLite\CareCompoud_SQLite\bin\Debug\CareCompoud_SQLite.exe.config
+C:\Users\Soporte\Documents\GitHub\CareCompoud\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.exe
+C:\Users\Soporte\Documents\GitHub\CareCompoud\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.pdb
+C:\Users\Soporte\Documents\GitHub\CareCompoud\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.csprojResolveAssemblyReference.cache
+C:\Users\Soporte\Documents\GitHub\CareCompoud\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.Form1.resources
+C:\Users\Soporte\Documents\GitHub\CareCompoud\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.Properties.Resources.resources
+C:\Users\Soporte\Documents\GitHub\CareCompoud\CareCompoud_SQLite\CareCompoud_SQLite\obj\Debug\CareCompoud_SQLite.csproj.GenerateResource.Cache
+C:\Users\Soporte\Documents\GitHub\CareCompoud\CareCompoud_SQLite\CareCompoud_SQLite\bin\Debug\CareCompoud_SQLite.exe
+C:\Users\Soporte\Documents\GitHub\CareCompoud\CareCompoud_SQLite\CareCompoud_SQLite\bin\Debug\CareCompoud_SQLite.pdb

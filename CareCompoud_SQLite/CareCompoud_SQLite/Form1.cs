@@ -11,12 +11,12 @@ using System.Data.SQLite;
 
 namespace CareCompoud_SQLite
 {
-        public partial class Form1 : Form
+        public partial class Login : Form
     {
         SQLiteConnection conexion;
 
 
-        public Form1()
+        public Login()
         {
             InitializeComponent();
         }
@@ -33,6 +33,21 @@ namespace CareCompoud_SQLite
             {
                 MessageBox.Show(ex.Message,"Error de Conexión");
             }
+        }
+
+        private void btnIniciar_Click(object sender, EventArgs e)
+        {
+            string usuario = txtUsuario.Text;
+            string pass = txtPass.Text;
+
+            MessageBox.Show("Bienvenido Usuario : "+usuario+"\n"+"Ventana");
+
+            string query = "";
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
